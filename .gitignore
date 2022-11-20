@@ -1,0 +1,5 @@
+!.ssh/.gitkeep
+!projects/.gitkeep
+.gnupg
+.ssh/
+projects/
